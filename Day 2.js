@@ -5,7 +5,7 @@
 // var num = 20;//  output : undefined
 
 // num = 20;
-// console.log(num);//these type of syntax can only applicable in "var".
+// console.log(num);//these types of syntax can onlybe  applicable in "var".
 // var num;
 
 
